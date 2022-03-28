@@ -9,7 +9,7 @@ function Root() {
                     <div className="card">
                         <div className="card-header">Example Component</div>
 
-                        <div className="card-body">
+                        <div className="card-body text-7xl">
                             I'm an example component!
                         </div>
                     </div>
