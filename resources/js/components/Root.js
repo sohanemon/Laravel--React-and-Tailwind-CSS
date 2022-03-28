@@ -1,20 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Body from "./Body/Body";
+import Foot from "./Foot/Foot";
+import Head from "./Head/Head";
 
 function Root() {
     return (
         <div className="container">
-            <div className="row justify-content-center">
-                <div className="col-md-8">
-                    <div className="card">
-                        <div className="card-header">Example Component</div>
-
-                        <div className="card-body text-7xl">
-                            I'm an example component!
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <Head />
+            <Body />
+            <Foot />
         </div>
     );
 }
