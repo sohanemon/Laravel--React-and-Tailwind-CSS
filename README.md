@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://pngset.com/images/logo-react-js-logo-svg-symbol-trademark-grenade-bomb-transparent-png-2691562.png" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://o.remove.bg/downloads/b588784a-e762-406b-82e4-0480f7d543de/free-icon-free-vector-icons-free-svg-psd-eps-ai-react-circle-logo-symbol-trademark-badge-transparent-png-2943115-removebg-preview.png" width="400"></a></p>
 
 ## About Laravel
 
