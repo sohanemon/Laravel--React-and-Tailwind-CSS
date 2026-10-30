@@ -13,7 +13,7 @@
         "@babel/preset-react": "^7.13.13",
         "@popperjs/core": "^2.10.2",
         "autoprefixer": "^10.4.4",
-        "axios": "^0.25",
+        "axios": "^1.0.0",
         "laravel-mix": "^6.0.6",
         "postcss": "^8.4.12",
         "react": "^17.0.2",
